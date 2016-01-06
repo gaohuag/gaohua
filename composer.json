@@ -1,0 +1,11 @@
+{
+    "name": "gaohua/gaohua",
+    "description": "gaohua test",
+    "authors": [
+        {
+            "name": "gaohua",
+            "email": "364433028@qq.com"
+        }
+    ],
+    "require": {}
+}
